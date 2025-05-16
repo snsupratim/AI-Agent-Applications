@@ -1,0 +1,6 @@
+# video analysis
+phidata
+google-generativeai
+duckduckgo-search
+streamlit
+python-dotenv
